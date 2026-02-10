@@ -1,0 +1,8 @@
+{
+  "name": "HUNT",
+  "short_name": "HUNT",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff"
+}
